@@ -18,45 +18,45 @@ The purpose of this project is to analyze NYC Citibike data to determine if a si
 - In a wide range of the age users, younger users tend to have a longer trip duration.
 - The most popular places for Citibike customers start and end their rides at the same locations.
 
-![Dashboard.png]()
+![Dashboard.png](https://github.com/meliscelikay/bikesharing/blob/afd1c41cfe57919310e1f3edbafe1905b563a012/Resources:Images/Dashboard.png)
 
 ### August Peak Hours
 
 - 5:00 PM and 6:00 PM are highest activity hours.
 - 2:00 AM to 4:00 AM are low activity hours.
 
-![August_Peak.png]()
+![August_Peak.png](https://github.com/meliscelikay/bikesharing/blob/afd1c41cfe57919310e1f3edbafe1905b563a012/Resources:Images/August_Peak.png)
 
 ### Checkout time for Users :
 
 Most usage occurs at 5 minutes and 146,752 bikes were checked out for NYC Citibikes in August 2019. 1,122 Citibikes were checked out at 59 minutes.
 
-![Checkout_Timesforusers.png]()
+![Checkout_Timesforusers.png](https://github.com/meliscelikay/bikesharing/blob/afd1c41cfe57919310e1f3edbafe1905b563a012/Resources:Images/Checkout_Timesforusers.png)
 
 ### Checkout times by Gender :
 
 - There were 34,151 female Citibike users have 6 minutes duration at peak usage.
 - There were 108,087 male Citibike users have 5 minutes duration at peak usage.
 
-![Checkout_Timesbygender.png]()
+![Checkout_Timesbygender.png](https://github.com/meliscelikay/bikesharing/blob/afd1c41cfe57919310e1f3edbafe1905b563a012/Resources:Images/Checkout_Timesbygender.png)
 
 ### Trips by Weekday per hour :
 
 Most of the rides from Monday through Friday occur during commuting hours of 8-9 AM and 5-7 PM.  The least usage between 12-5 AM Sundays through Saturdays.
 
-![TripsbyWeekdayperHour.png]()
+![TripsbyWeekdayperHour.png](https://github.com/meliscelikay/bikesharing/blob/afd1c41cfe57919310e1f3edbafe1905b563a012/Resources:Images/TripsbyWeekdayperHour.png)
 
 ### Trips by Gender (Weekday per Hour) :
 
 Both males and females users rides around 8 AM and 5 PM - 6 PM Monday through Friday. The rides are mostly taken by male users.
 
-![TripsbyGender.png]()
+![TripsbyGender.png](https://github.com/meliscelikay/bikesharing/blob/afd1c41cfe57919310e1f3edbafe1905b563a012/Resources:Images/TripsbyGender.png)
 
 ### User Trips by Gender by Weekday :
 
 The highest usage day was on Thursday for subscribers and the highest usage was on Saturday for non-subscribers.
 
-![UserTripsbyGender.png]()
+![UserTripsbyGender.png](https://github.com/meliscelikay/bikesharing/blob/afd1c41cfe57919310e1f3edbafe1905b563a012/Resources:Images/UserTripsbyGender.png)
 
 ## Summary
 
